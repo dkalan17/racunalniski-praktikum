@@ -55,9 +55,24 @@ h2 {
     text-align: left;
     width: 40%;
     margin-left: 2em;
+    
 }
 
 .slika img {
     width: 100%;
-    height: auto
+    height: auto;
+    border: greenyellow 20px ridge;
+    border-radius: 50%;
+}
+
+.slika p:last-child {
+    font-size: 0.8em;
+}
+
+.slika p:nth-child(2n) {
+background-color: #cc0000;
+}
+
+.slika::before {
+    content: "\1F601";
 }
