@@ -47,6 +47,17 @@ h2 {
 #uvod {
     padding: 2em;
     background-color: rgb(51, 0, 102, 0.1);
-
 }
 
+.slika {
+    float: right;
+    font-size: 0.9em;
+    text-align: left;
+    width: 40%;
+    margin-left: 2em;
+}
+
+.slika img {
+    width: 100%;
+    height: auto
+}
