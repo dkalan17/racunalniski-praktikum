@@ -5,7 +5,6 @@
 \usepackage[T1]{fontenc}        % kodiranje znakov v .pdf
 \usepackage[utf8]{inputenc}     % kodiranje znakov v .tex
 \usepackage[slovene]{babel}     % nastavimo slovenščino
-\usepackage{amsthm}
 
 \usepackage{concrete}           % pisave po okusu Donalda Knutha
 
@@ -151,7 +150,7 @@ Ali je res, da za vsak $n \in \NN$ in $a \in \RR$ obstaja natanko en $b \in \RR$
 Ali se urejeni pari pišejo $(x, y)$ ali $\pair{x, y}$? Kdo bi vedel. Je pa tako, da se
 splača uporabiti makro, ker lahko kasneje še spreminjamo njegovo definicijo.
 
-\newcommand{\zap}[2]{#1_1, \ldots, #1_{#2}}
+\newcommand{\zap}[2]{#1_1, \ldots, #1_{#2}} \ref{eq:1}
 
 Ne počnimo neumnosti z makoroji: če seštejemo zaporedji $\zap{a}{n}$ in $\zap{b}{n}$,
 dobimo zaporedje $\zap{a + b}{n}$.
