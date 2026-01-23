@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1769198389.75359 "/Users/test/faks/racunalniski-praktikum/08-prosojnice/prosojnice.tex" "prosojnice.pdf" "prosojnice" 1769198391.05385 0
-  "/Users/test/faks/racunalniski-praktikum/08-prosojnice/prosojnice.tex" 1769198386.80568 1980 1a2ed467f94d24b01c199666b3cefed6 ""
+["pdflatex"] 1769198898.54781 "/Users/test/faks/racunalniski-praktikum/08-prosojnice/prosojnice.tex" "prosojnice.pdf" "prosojnice" 1769198899.96725 0
+  "/Users/test/faks/racunalniski-praktikum/08-prosojnice/prosojnice.tex" 1769198898.33932 1982 41f84be985ac840a5e84495e49271d7e ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/jknappen/ec/ecsi1200.tfm" 1136768653 3584 76f906ed3d5c5ef20a2687ba265e1ef9 ""
@@ -234,10 +234,10 @@
   "/usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1767462633 3345741 fba9fa87817565e69986dec6c0bf30c1 ""
   "/usr/local/texlive/2025/texmf.cnf" 1741450484 577 418a7058ec8e006d8704f60ecd22c938 ""
   "predavanja.sty" 1731227036 1271 9546361f9f30288301f1cddd1feb0f5b ""
-  "prosojnice.aux" 1769198390.94917 3447 fec1897371b3de152e541e40b74eaa6c "pdflatex"
-  "prosojnice.nav" 1769198390.95069 2003 700b0cea5961446fe3130108fc123296 "pdflatex"
-  "prosojnice.out" 1769198390.95041 857 a81989b9e0447179f9f657bd4d407b98 "pdflatex"
-  "prosojnice.tex" 1769198386.80568 1980 1a2ed467f94d24b01c199666b3cefed6 ""
+  "prosojnice.aux" 1769198899.85505 3447 fec1897371b3de152e541e40b74eaa6c "pdflatex"
+  "prosojnice.nav" 1769198899.85649 2003 700b0cea5961446fe3130108fc123296 "pdflatex"
+  "prosojnice.out" 1769198899.85614 857 a81989b9e0447179f9f657bd4d407b98 "pdflatex"
+  "prosojnice.tex" 1769198898.33932 1982 41f84be985ac840a5e84495e49271d7e ""
   (generated)
   "prosojnice.aux"
   "prosojnice.log"
