@@ -7,6 +7,14 @@
 % Naloga 1.3.3: definirajte okolji `definicija' in `izrek'.
 % Namig: z iskanjem po datotekah (Ctrl+Shift+F oz. Cmd+Shift+F) 
 % poiščite niz `{definicija}' ali niz `{izrek}'.
+
+% Source - https://tex.stackexchange.com/a
+% Posted by Martin Scharrer, modified by community. See post 'Timeline' for change history
+% Retrieved 2026-01-25, License - CC BY-SA 3.0
+
+\newtheorem{definicija}{Definicija}
+\newtheorem{izrek}{Izrek}
+
 \title{Matematični izrazi in uporaba paketa \texttt{beamer}}
 \subtitle{\emph{Matematičnih} nalog ni treba reševati!}
 \institute{Fakulteta za matematiko in fiziko}
@@ -14,8 +22,9 @@
 
 \begin{document}
 
+
 \begin{frame}
-  \titlepage
+  \titlepage                
 \end{frame}
 
 
@@ -37,9 +46,17 @@
 %    Poglejte, kako deluje ta ukaz.
 % 3. Ker ni videti preveč lepo, pomožni parameter zakomentirajte.
 
+
+\begin{frame}
+  \frametitle{Kratek pregled}
+  \tableofcontents%[pausesections]
+\end{frame}
+
 \section{Paket \texttt{beamer}}
+\input{prosojnice/1-paket-beamer.tex}
 
 \section{Paketa \texttt{amsmath} in \texttt{amsfonts}}
+\input{prosojnice/2-paketa-amsmath-amsfonts.tex}
 
 \section[Matematika, 1. del\\\large{Analiza, logika, množice}]{Matematika, 1. del}
 
